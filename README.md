@@ -1,4 +1,4 @@
-# Analogy-Experiment
+# Analogy Experiment
 # Introduction
 
 Embeddings are generally learned on a large corpus. Once the embeddings are trained,
